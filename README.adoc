@@ -1,0 +1,5 @@
+This is a placeholder for a fulcro app which is under progress here 
+
+https://github.com/abhi18av/fulcro3-template/tree/abhi18av-apps/forms-robohash
+
+When the idea is sufficiently formed, it'll be moved to this repo from that branch :) 
